@@ -10,9 +10,10 @@
   data_dir name/class1/imgs*  
                 class2/imgs*  
                 class3/imgs*  
-                . 
                 .  
-                classn/imgs* 
+                .    
+                classn/imgs*   
+
 '''
 
  
