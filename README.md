@@ -7,12 +7,12 @@
  Your training data must be formmated like this:  
  '''
 
-  data_dir name/class1/imgs*  
-               class2/imgs*  
-                class3/imgs*  
-                .  
+  data_dir name/class1/imgs*      
+                class2/imgs*      
+                class3/imgs*      
                 .    
-                classn/imgs*   
+                .      
+                classn/imgs*      
 
 '''
 
